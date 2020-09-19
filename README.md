@@ -8,6 +8,8 @@
 
 1. قم بربط صفحة ال html بصفحة style.css
 2. قم بإدراج خط من خطوط قوقل
+ادخل هذا الرابط 
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300&display=swap" rel="stylesheet">
 3. قم بجعل صورة الكويت تبرمج خلفية الموقع
 
 ### المطلوب الثاني (البطاقة)
