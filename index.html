@@ -7,15 +7,25 @@
     <!--  قم بربط هذه الصفحة  مع css -->
     <link rel="stylesheet" href="styles.css" />
     <!--  ربط google fonts -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Cairo:wght@300&display=swap"
+    />
   </head>
 
   <body>
+    <nav>
+      <div class="nav-elements">
+        <a href="#card">هويّتي</a>
+        <a href="#hobbies">هواياتي</a>
+      </div>
+    </nav>
     <h1>مرحباً، أنا طالب في مسار الويب</h1>
     <h2>وسوف أنشئ بطاقتي التعريفية</h2>
 
     <!--------------------(البطاقة)-------------------->
 
-    <div class="card center">
+    <div class="card center" id="card">
       <!--------------------(الصورة)------------------->
       <img src="./img/kid.png" alt="person" />
 
@@ -34,8 +44,13 @@
       </a>
     </div>
     <!-------------------(الهوايات)------------------>
-    <div class="hobbies">
+    <div class="hobbies-parent" id="hobbies">
       <!-- قم بإضافة صور هواياتك هنا -->
+      <div class="hobbies-child">
+        <img src="./img/Skateboarding.jpg" alt="" />
+        <img src="./img/cssing.jpg" alt="" />
+        <img src="./img/painting.jpg" alt="" />
+      </div>
     </div>
   </body>
 </html>
