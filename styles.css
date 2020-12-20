@@ -2,18 +2,23 @@ body {
   /* المطلوب الأول هنا */
   text-align: center;
 }
+
 .card {
-  /* المطلوب الثاني هنا */
+  /* المطلوب الثالث هنا */
   width: 400px;
   height: 500px;
   background-color: white;
 }
 
 img {
-  /* المطلوب الثالث هنا */
+  /* المطلوب الرابع هنا */
   width: 120px;
   height: 120px;
   margin-top: 20px;
+}
+
+.hobbies {
+  /* المطلوب السادس هنا */
 }
 
 .center {
