@@ -35,14 +35,7 @@
 </li>
 </ol>
 <p>
-<p dir="rtl">
 
-
-
-
-
-<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
-</p>
 
 </p>
 <ol>
@@ -63,7 +56,4 @@
 </li>
 </ol>
 <p>
-<p dir="rtl">
-الشكل النهائي :</p>
 
-</p>
