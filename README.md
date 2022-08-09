@@ -1,7 +1,7 @@
 <p>
 <p dir="rtl">
 
-<h3><a href="https://github.com/kuwaitcodes/KC-web-cw-4">تمرين </a></h3></p>
+<h3><a href="https://github.com/kuwaitcodes/KC-web-cw-5">تمرين</a></h3></p>
 <p>اليوم راح نسوي هيكل لعبة  X O بالـ Flexbox</p>
 <h1></h1>
 </p>
